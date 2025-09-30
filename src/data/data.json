@@ -1,9 +1,0 @@
-{
-  "clients": [
-    { "id": 1, "name": "Ana Clara Souza", "age": 28, "objective": "Hipertrofia", "status": "Ativo" },
-    { "id": 2, "name": "Bruno Gomes", "age": 35, "objective": "Perda de Peso", "status": "Ativo" },
-    { "id": 3, "name": "Carla Martins", "age": 42, "objective": "Condicionamento", "status": "Inativo" }
-  ],
-  "plans": [],
-  "classes": []
-}
